@@ -1,13 +1,11 @@
 [![MasterHead](https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2024/09/Is-Data-Science-Hard.jpg)](https://github.com/shivali-10)
-<h1 align="center"> About </h1>
 
-<h1 align="center">Hi 👋, I'm Shivali V</h1>
-<h3 align="center">🚀 Data Engineer | Data Science Enthusiast</h3>
+<h1 align="center">Shivali V</h1>
+<h3 align="center"> Data Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivali-10&label=Profile%20views&color=0e75b6&style=flat" alt="shivali-10" />
 </p>
----
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
