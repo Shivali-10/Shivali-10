@@ -1,6 +1,5 @@
-[![MasterHead]([https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg](https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2024/09/Is-Data-Science-Hard.jpg))](https://github.com/shivali-10)
+[![MasterHead](https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2024/09/Is-Data-Science-Hard.jpg)](https://github.com/shivali-10)
 <h1 align="center"> About </h1>
-
 
 <h1 align="center">Hi 👋, I'm Shivali V</h1>
 <h3 align="center">🚀 Data Engineer | Data Science Enthusiast</h3>
