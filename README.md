@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/shivali-10)
+[![MasterHead]([https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg](https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2024/09/Is-Data-Science-Hard.jpg))](https://github.com/shivali-10)
 <h1 align="center"> About </h1>
 
 
@@ -8,9 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivali-10&label=Profile%20views&color=0e75b6&style=flat" alt="shivali-10" />
 </p>
-
-<img align="center" alt="data-science" width="1000" src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif">
-
 ---
 
 ## 💻 Tech Stack
