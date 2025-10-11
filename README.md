@@ -43,9 +43,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivali-10&theme=onedark" />
 </p>
-## 🏆 GitHub Achievements & Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shivali-10&theme=onedark)
 
 <!-- GitHub Analytics Section -->
 <div align="center">
@@ -57,7 +54,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=shivali-10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&_vercel_color_scheme=dark" height="180" />
   
   <!-- Top Contributed Repos (Mirror) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shivali-10&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
+ ![Shivali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivali-10&show_icons=true&locale=en&theme=tokyonight&hide_border=true)
+
 
 </div>
 
