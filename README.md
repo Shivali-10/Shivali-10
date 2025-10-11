@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivali-10&label=Profile%20views&color=0e75b6&style=flat" alt="shivali-10" />
 </p>
+[![Shivali-10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivali-10&theme=react-dark&hide_border=true)](https://github.com/Shivali-10)
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
