@@ -24,6 +24,10 @@
 ![Java](https://img.shields.io/badge/java-%23f89820?style=for-the-badge&logo=java&logoColor=white)
 
 ---
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivali-10&theme=onedark" />
+</p>
 
 ---
 
@@ -39,10 +43,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivali-10&theme=onedark" />
-</p>
+
 
 
 ---
