@@ -25,41 +25,9 @@
 
 ---
 
-## 🌱 Current Learning
-- Advanced **Power BI dashboards** for business insights
-- Azure **Data Factory**, **Databricks**, and **Synapse Analytics**
-- Cloud-based **Data Engineering pipelines** and **automation**
-- Deepening knowledge of **Machine Learning** & **Data Science**
-
----
-
-## 🔭 Current Projects
-- **CRM Data Analytics Platform** – Building automated ETL pipelines on Azure
-- **Predictive Maintenance Analytics** – Data ingestion, cleaning, and visualization
-
----
-
-## 👯 Looking to Collaborate On
-- Data Engineering projects on **Azure**
-- Cloud-based **Data Science workflows**
-- **Open-source analytics tools** and dashboards
-
----
-
-## 💬 Ask Me About
-- Data visualization & reporting
-- Azure Data Services
-- Python & SQL programming
-- Business Intelligence projects
-
 ---
 
 ## 📫 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/ssshivali_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssshivali_" height="30" width="40" /></a>
-  <a href="mailto:shivali.vannarath@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/shivali-vannarath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -75,6 +43,23 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivali-10&theme=onedark" />
 </p>
+## 🏆 GitHub Achievements & Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shivali-10&theme=onedark)
+
+<!-- GitHub Analytics Section -->
+<div align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivali-10&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="200" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=shivali-10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&_vercel_color_scheme=dark" height="180" />
+  
+  <!-- Top Contributed Repos (Mirror) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shivali-10&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
 
 ---
 
